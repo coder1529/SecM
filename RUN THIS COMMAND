@@ -1,0 +1,1 @@
+python -m PyInstaller --onefile --uac-admin main.py
