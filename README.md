@@ -84,7 +84,3 @@ If at any moment you need to instantly clear the terminal context from sight, pr
 `Ctrl` + `Alt` + `Win` + `1` + `Tab`
 
 ---
-
-## 📄 License
-
-Distributed under the [MIT] License. See `LICENSE` for more information.
